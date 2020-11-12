@@ -1,1 +1,11 @@
 /* TODO: Make it awesome */
+
+* {
+  background-color: aqua;
+  color: black;
+}
+
+#mine {
+  border-color: red;
+  border-radius: 10px;
+}
